@@ -1,0 +1,2 @@
+# cfg
+CS:GO cfg
