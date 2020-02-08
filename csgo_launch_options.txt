@@ -1,0 +1,5 @@
+-novid -tickrate 128 -refresh 75 -nojoy +fps_max 0 +cl_forcepreload 1 -limitvsconst -forcenovsync +r_dynamic 0
+
+--copia
+
+-novid -tickrate 128 -refresh 75 -nojoy +fps_max 0 +mat_disable_fancy_blending 1 +cl_forcepreload 1 -limitvsconst -forcenovsync +r_dynamic 0
